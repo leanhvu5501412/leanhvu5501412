@@ -1,6 +1,15 @@
 # Hi there 👋
 
 
+- To every action there is always opposed an equal reaction.
+
+
+- Isaac Newton
+
+
+- <blockquote>&ldquo;To every action there is always opposed an equal reaction.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+
+
 <img src="https://zenquotes.io/api/image" alt="zenquotes-image-each-day" />
 
 
@@ -23,4 +32,4 @@ My name is LAV. I love many things, but programming has had a special place in m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
 
 
-New file content (7/25/2023, 7:27:01 PM)
+New file content (7/25/2023, 7:29:02 PM)
