@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## <blockquote>&ldquo;To every action there is always opposed an equal reaction.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>
+## <blockquote>&ldquo;Success is getting what you want... Happiness is wanting what you get.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
 
 
 <img width="50%" src="https://zenquotes.io/api/image" alt="zenquotes-image-each-day" />
@@ -19,4 +19,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
 
 
-New file content (7/25/2023, 1:24:00 PM)
+New file content (9/18/2023, 2:07:00 AM)
