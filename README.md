@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## <blockquote>&ldquo;Success is getting what you want... Happiness is wanting what you get.&rdquo; &mdash; <footer>Dale Carnegie</footer></blockquote>
+## <blockquote>&ldquo;It is our experiences that mold us into who we are...during times of adversity our true character will show.&rdquo; &mdash; <footer>Unknown</footer></blockquote>
 
 
 <img width="50%" src="https://zenquotes.io/api/image" alt="zenquotes-image-each-day" />
@@ -19,4 +19,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
 
 
-New file content (9/18/2023, 3:02:00 AM)
+New file content (10/3/2023, 4:41:02 PM)
